@@ -1,0 +1,96 @@
+ul{
+    list-style-type: none;
+    padding: 1px;
+    width: 215px;
+    background-color: darkgray;
+    text-align: center;
+    border:  3px solid black;
+    height: fit-content;
+    position: absolute;
+    overflow: auto;
+    margin: 1px;
+}
+div{
+    margin-left: 250px;
+}
+li a{
+    display: block;
+    color: black;
+    padding:  8px 16px;
+    text-align: center;
+    font-size: 15pt;
+    border: 2.5px solid black;
+    margin: 3px;
+
+}
+li a:hover{
+    display: block;
+    color: black;
+    padding:  8px 16px;
+    text-align: center;
+    font-size: 17pt;
+    background-color: dimgrey;
+
+}
+li menue_title{
+    display: block;
+    color: white;
+    padding:  10px 40px;
+    text-align: center;
+    background-color: black;
+    border:  2px solid white;
+    font-size: 20pt;
+
+
+}
+h1{
+    display: block;
+    text-align: center;
+    background-color: darkgray;
+    padding: 10px 30px;
+    border: 3px solid black;
+}
+img{
+    display: block;
+    margin-right: 30%;
+    margin-left: 38%;
+    border: 3px solid black ;
+
+
+
+}
+p{
+    text-align: center;
+    padding: 1px 40px;
+}
+lable{
+    display: block;
+    color: black;
+
+    text-align: center;
+    font-size: 15pt;
+    border: 2.5px solid black;
+    margin: 3px;
+    background-color: dimgrey;
+}
+input{
+    border: 2.5px solid black;
+    display: block;
+    width: 99%;
+    margin-left: 1px;
+    margin-right: 1px;
+    align-self: center;
+    margin-bottom: 20px;
+    height: 30px ;
+
+}
+textarea{
+    border: 2.5px solid black;
+    display: block;
+    width: 99%;
+    margin-left: 1px;
+    margin-right: 1px;
+    align-self: center;
+    margin-bottom: 20px;
+
+}
